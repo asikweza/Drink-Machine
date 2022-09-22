@@ -1,0 +1,50 @@
+<div class="container">
+    <form [formGroup]="form">
+        <div class="form-group">
+            <label for="dateFrom">From:</label>
+            <input type="date" class="form-control" id="fromDate" formControlName="dateFrom"  [(ngModel)]="sharedService.fromDate">
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="dateTo">To:</label>
+            <input type="date" class="form-control" id="fromDate" formControlName="dateTo" [(ngModel)]="sharedService.toDate">
+        </div>
+    </form>
+    <br>
+    <div>
+        <div class="form-group">
+            <label for="item">Choose Drink:</label>
+            <select name="item" id="item" class="form-control" [(ngModel)]="sharedService.itemDiscription">
+            <option *ngFor="let product of sharedService.getAllItems()" [value]="product.itemDescription">
+                {{product.itemDescription}}
+            </option>
+                    
+            </select>
+        </div>
+        <br>
+        <br>
+        <div class="container">
+            <button class="btn btn-success" type="submit" (click)="sharedService.getInRange(sharedService.fromDate,sharedService.toDate,sharedService.itemDiscription)">Search</button>
+        </div>
+    </div>
+    <br>
+</div>
+
+<table class="container" style="width:100%">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    
+    <tbody>
+        <tr *ngFor="let range of sharedService.getRange()">
+            <td>{{range.purchasedDate}}</td>
+            <td>{{range.itemPurchased}}</td>
+            <td>{{range.itemPrice}}</td>
+        </tr>
+    </tbody>
+    
+</table>

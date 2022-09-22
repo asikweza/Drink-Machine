@@ -1,0 +1,12 @@
+.items-container {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.each-item {
+    font-weight: bold;
+    padding: 15px;
+}
+    

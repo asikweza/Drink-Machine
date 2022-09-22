@@ -1,0 +1,29 @@
+<div class="container app-home">        <!--Section for components outside the items round border, class is defined in css. The container name sets the elements in centre of screen-->
+    <h1>Vending Machine</h1>        <!--Page heading-->
+    <br><br>
+    <div>           
+        <form [formGroup]="form">         
+          <div class="form-group">        <!--Class form-group is a class for Forms that get input from users-->
+            <label for="insertMoney">Insert money:</label>            <!--Label Insert money. --> 
+            <input type="number" class="form-control" id="insertMoney" aria-describedby="emailHelp" formControlName="money" (input)="handleInput($event)" required>     <!--Input field of type number in insert money, handleInput() found in ts file -->
+            <p *ngIf="!form.valid || error || form.controls['money'].value === 0" style="color: red;">Money cannot be empty</p>     <!--Money cannot be empty paragraph. If money is 0. IN red color -->
+          </div>
+          <br>
+        </form>
+        <div class="form-group">
+          <label for="userChange">Change:</label>       <!--Label for change-->
+          <input class="form-control" id="userChange" [(ngModel)]="sharedService.userChange" disabled>    <!--Input for change from shared service, which is disabled -->
+        </div>
+      
+    </div>
+    <br><br>    <!--New line-->
+    <div style="width: 100%; font-weight: bold; font-size: 18px;">Select an item</div>    <!--Label for "Select an Item" on top of items display div -->
+    <app-all-items style="width: 100%;"></app-all-items>      <!--Placing the item discription and price (all-items component) in the home page -->
+    <div *ngIf="sharedService.getSelectedIndex === undefined && itemError" style="color: red;width: 100%;">Please select an item</div>  <!--If no item is select this line shows error message Please select item-->
+    <br><br>
+    <div class="app-home-action-buttons">     <!--The class name is defined in the css component-->
+        <button class="btn btn-success" type="submit" (click)="onPurchase()">Purchase</button>    <!--Button for Purchase. The onPurchase() function is from ts file for action-->
+        <button class="btn btn-warning" (click)="onClear()">Clear</button>    <!--Cancel button with a warning color. The action onClear() is on the ts file-->
+        <button class="btn btn-danger">Cancel</button>   <!--button for cancel. No action-->
+    </div>
+</div>

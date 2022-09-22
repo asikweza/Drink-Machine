@@ -1,0 +1,48 @@
+C:\Users\ashleys\source\repos\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.deps.json
+C:\Users\ashleys\source\repos\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.dll
+C:\Users\ashleys\source\repos\Vendor.Entities\bin\Debug\net5.0\ref\Vendor.Entities.dll
+C:\Users\ashleys\source\repos\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.AssemblyReference.cache
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfoInputs.cache
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfo.cs
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.dll
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\ref\Vendor.Entities.dll
+C:\Users\ashleys\source\repos\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.deps.json
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.AssemblyReference.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfoInputs.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfo.cs
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\refint\Vendor.Entities.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\ashleys\Desktop\Vendor\Vendor.Entities\obj\Debug\net5.0\ref\Vendor.Entities.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.deps.json
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.AssemblyReference.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfoInputs.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfo.cs
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\refint\Vendor.Entities.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\ref\Vendor.Entities.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.deps.json
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\bin\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.AssemblyReference.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfoInputs.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.AssemblyInfo.cs
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\refint\Vendor.Entities.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\Vendor.Entities.pdb
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor.Entities\obj\Debug\net5.0\ref\Vendor.Entities.dll

@@ -1,0 +1,10 @@
+<div class="border rounded items-container">        <!--Section that surrounding the items as a container -->
+    <div class="form-check" *ngFor="let item of sharedService.getAllItems();let i = index">     <!--Iterates through each item in our item --> 
+        <div class="each-item">                                 <!--Placing each item with radio button and price -->
+            <input class="form-check-input" type="radio" name="selectedItem" id="flexRadioDefault1" [value]=i (change)="onRadioChanged($event)" [(ngModel)]="flag"> 
+            <label class="form-check-label" for="flexRadioDefault1">
+                {{item.itemDescription}} &nbsp; $ {{item.itemPrice}}        <!--&nbsp mean non-breaking-->
+            </label>
+        </div>
+    </div>
+</div>

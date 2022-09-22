@@ -1,0 +1,100 @@
+C:\Users\ashleys\Desktop\Vendor\obj\Debug\net6.0\Vendor.csproj.AssemblyReference.cache
+C:\Users\ashleys\Desktop\Vendor\obj\Debug\net6.0\Vendor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashleys\Desktop\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfoInputs.cache
+C:\Users\ashleys\Desktop\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfo.cs
+C:\Users\ashleys\Desktop\Vendor\obj\Debug\net6.0\Vendor.csproj.CoreCompileInputs.cache
+C:\Users\ashleys\Desktop\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashleys\Desktop\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\appsettings.json
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.exe
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.deps.json
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.runtimeconfig.json
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.pdb
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.DataAccess.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.Entities.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.DataAccess.pdb
+C:\Users\ashleys\Desktop\Vendor\Vendor\bin\Debug\net6.0\Vendor.Entities.pdb
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.AssemblyReference.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfoInputs.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfo.cs
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.CoreCompileInputs.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\scopedcss\bundle\Vendor.styles.css
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.CopyComplete
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\refint\Vendor.dll
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.pdb
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\Vendor.genruntimeconfig.cache
+C:\Users\ashleys\Desktop\Vendor\Vendor\obj\Debug\net6.0\ref\Vendor.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\appsettings.json
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.exe
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.deps.json
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.runtimeconfig.json
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.pdb
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.DataAccess.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.Entities.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.DataAccess.pdb
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.Entities.pdb
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.AssemblyReference.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfoInputs.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfo.cs
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.CoreCompileInputs.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\scopedcss\bundle\Vendor.styles.css
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.CopyComplete
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\refint\Vendor.dll
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.pdb
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.genruntimeconfig.cache
+C:\Users\mzuvukilen\Downloads\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\ref\Vendor.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\appsettings.json
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.exe
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.deps.json
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.runtimeconfig.json
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.pdb
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.DataAccess.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.Entities.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.DataAccess.pdb
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\bin\Debug\net6.0\Vendor.Entities.pdb
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.AssemblyReference.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfoInputs.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.AssemblyInfo.cs
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.CoreCompileInputs.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\scopedcss\bundle\Vendor.styles.css
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.csproj.CopyComplete
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\refint\Vendor.dll
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.pdb
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\Vendor.genruntimeconfig.cache
+C:\Users\ashleys\Documents\The Project Bruh\The Project Bruh\Vendor\Vendor\obj\Debug\net6.0\ref\Vendor.dll

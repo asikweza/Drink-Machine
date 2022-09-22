@@ -1,0 +1,18 @@
+<div class="container">
+    <table class="table" style="width:100%">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody >
+        <tr *ngFor="let history of sharedService.getHistory()">
+                <td>{{history.purchasedDate}}</td>
+                <td>{{history.itemPurchased}}</td>
+                <td>{{history.itemPrice}}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>

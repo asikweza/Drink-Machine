@@ -1,0 +1,27 @@
+<div class="container app-report">
+    <br><br> 
+    <h1>Vending Machine History</h1>
+    <br><br>   
+        <nav class="navbar navbar-expand-sm bg-light navbar-dark">
+        <ul class ="navbar-nav">
+            <div>
+                <li class="nav-item">
+                    <button class="m-1 btn btn-light btn-outline-primary" (click)="onPress()">Purchase History</button>
+                </li>
+            </div>
+            <div>
+                <li class="nav-item">
+                    <button class="m-1 btn btn-light btn-outline-primary" (click)="onRange()">History In Range</button>
+    
+                </li>
+            </div>
+
+        </ul>
+        </nav>
+</div>>
+<div id="comp-render" *ngIf="display">
+    <app-history style="width: 100%;"></app-history>
+</div>
+<div id="comp-render" *ngIf="show">
+    <app-history-range style="width: 100%;"></app-history-range>
+</div>
